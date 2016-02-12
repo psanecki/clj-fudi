@@ -1,4 +1,4 @@
-# fudi-clj
+# clj-fudi
 
 A Clojure namespace which helps with sending things to Pd using FUDI protocol.
 

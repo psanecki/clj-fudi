@@ -1,6 +1,6 @@
-(ns fudi-clj.core-test
+(ns clj-fudi.core-test
   (:require [clojure.test :refer :all]
-            [fudi-clj.core :refer :all]))
+            [clj-fudi.core :refer :all]))
 
 ;; (deftest tcptest
 ;;   (testing "FIXME, I fail."
