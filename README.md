@@ -9,7 +9,7 @@ pd pd/udp_test.pd&
 lein test
 ```
 
-Check ```test/fud-clj/core_test.clj``` and ```pd/udp_test.pd``` for basic usage.
+Check ```test/clj_fudi/core_test.clj``` and ```pd/udp_test.pd``` for basic usage.
 
 
 ## License
